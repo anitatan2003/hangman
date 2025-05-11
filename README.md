@@ -8,8 +8,9 @@ result, the computer is always considering a set of words that could be the answ
 order to fool the user into thinking it is playing fairly, the computer only considers words
 with the same letter pattern.
 
-For example, suppose that the computer knows the words in the following dictionary
+For example, suppose that the computer knows the words in the following dictionary: 
 ALLY BETA COOL DEAL ELSE FLEW GOOD HOPE IBEX
+
 In a normal game of hangman, the computer would start the game by choosing a word
 to guess. In our game, the computer doesn't yet commit to an answer but instead
 narrows down its set of possible answers as the user makes guesses. In the log below,
