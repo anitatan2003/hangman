@@ -1,4 +1,4 @@
-# Hangman
+# Tricky Hangman
 
 In a normal game of hangman, the computer picks a word that doesn’t change, and
 then the user is supposed to guess. The user guesses individual letters until the word is
